@@ -61,7 +61,7 @@ a.disabled {
 }
 
 body {
-    font-family: open sans, sans-serif;
+    font-family: Font Awesome 5 Brands;
     color: #6a6a8e;
     font-weight: 400;
     font-style: normal;
@@ -89,7 +89,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Poppins, sans-serif;
+    font-family: Font Awesome 5 Brands;
     color: #050748;
     font-weight: 600
 }
@@ -6063,12 +6063,12 @@ html .pb140 {
 }
 
 .bg-btn2 {
-    background: #f92c8b;
+    background: #9d6913;
     background: -moz-linear-gradient(left, #9d6913 0, #927605 100%);
     background: -webkit-linear-gradient(left, #9d6913 0, #927605 100%);
     background: linear-gradient(to right, #9d6913 0, #927605 100%);
     -webkit-box-shadow: 0 10px 15px 0 rgba(175, 0, 202, .2);
-    box-shadow: 0 10px 15px 0 rgba(175, 0, 202, .2)
+    box-shadow: 0 10px 15px 0 rgb(208 187 129 / 25%);
 }
 
 .bg-btn3,
