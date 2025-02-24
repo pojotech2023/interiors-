@@ -61,7 +61,7 @@ a.disabled {
 }
 
 body {
-    font-family: Font Awesome 5 Brands;
+    font-family: math;
     color: #6a6a8e;
     font-weight: 400;
     font-style: normal;
@@ -89,7 +89,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Font Awesome 5 Brands;
+    font-family: math;
     color: #050748;
     font-weight: 600
 }
@@ -352,7 +352,7 @@ header .dropdown-menu {
 .navbar-light .navbar-nav .nav-link {
     color: #0a2233;
     font-weight: 500;
-    font-family: Poppins, sans-serif
+    font-family: math
 }
 
 .dropdown-item {
@@ -557,7 +557,8 @@ div.custom-nav>ul>li.sbmenu>a:after {
 }
 
 .main-header.sticky .custom-nav .nav-list li a.menu-links {
-    color: #050748
+    color: #050748;
+    font-weight: bold;
 }
 
 .main-header .mega-white-logo,
@@ -598,8 +599,8 @@ div.custom-nav>ul>li.sbmenu>a:after {
 .custom-nav .nav-list li a.menu-links {
     font-size: 16px;
     color: #050748;
-    font-family: Poppins, sans-serif;
-    font-weight: 500;
+    font-family: math;
+    font-weight: bold;
     padding: 0 15px;
     line-height: 85px;
     text-transform: uppercase;
@@ -1095,7 +1096,7 @@ a.play-video::after {
 .btn-main {
     font-size: 16px;
     font-weight: 400;
-    font-family: Poppins, sans-serif;
+    font-family: math;
     padding: 0 32px;
     line-height: 56px;
     text-align: center;
@@ -1162,7 +1163,7 @@ a.play-video::after {
     margin: 30px 0;
     background: #fafafb;
     color: #6a6a8e;
-    font-family: Poppins, sans-serif
+    font-family: math
 }
 
 .user- .user-image img {
@@ -1294,7 +1295,7 @@ a.play-video::after {
     display: inline-block;
     margin: 30px 0 0;
     color: #050748;
-    font-family: Poppins, sans-serif
+    font-family: math
 }
 
 .upset {
@@ -1390,7 +1391,7 @@ a.play-video::after {
 
 .statistics span {
     font-size: 45px;
-    font-family: Poppins, sans-serif;
+    font-family: math;
     color: #050748;
     font-weight: 700;
     display: inline-block
@@ -1590,7 +1591,7 @@ a.play-video::after {
 }
 
 .work-card p {
-    font-family: Poppins, sans-serif;
+    font-family: math;
     line-height: 24px;
     font-size: 16px;
     margin: 5px 0 0;
@@ -2212,7 +2213,7 @@ footer.ftshap:before {
 .footer-address-list li p {
     font-weight: 600;
     font-size: 18px;
-    font-family: Poppins, sans-serif;
+    font-family: math;
     line-height: 25px
 }
 
@@ -2220,7 +2221,7 @@ footer.ftshap:before {
     display: flex;
     font-weight: 600;
     font-size: 16px;
-    font-family: open sans, sans-serif
+    font-family: math
 }
 
 .footer-address-list li>span {
@@ -2240,7 +2241,7 @@ footer.ftshap:before {
 
 .footer-address-list li a {
     color: black;
-    font-family: open sans, sans-serif;
+    font-family: math;
     font-size: 16px;
     line-height: 24px;
     font-weight: 600;
@@ -2303,7 +2304,7 @@ footer.ftshap:before {
 }
 
 .link-hover a {
-    font-family: Poppins, sans-serif;
+    font-family: math;
     display: inline-block;
     padding: 3px 0;
     position: relative;
@@ -2399,7 +2400,7 @@ footer.ftshap:before {
 
 .breadcrumb-area .bread-menu li+li::before {
     font-size: 5px;
-    font-family: 'font awesome 5 free';
+    font-family: math;
     content: "\f111";
     font-weight: 700;
     margin: 0 10px 0 0;
@@ -2591,7 +2592,7 @@ footer.ftshap:before {
 }
 
 .portfolio-meta ul li p {
-    font-family: Poppins, sans-serif;
+     font-family: math;
     font-size: 16px;
     line-height: 28px;
     background: #fff;
@@ -2601,7 +2602,7 @@ footer.ftshap:before {
 }
 
 .portfolio-meta ul li p span {
-    font-family: open sans, sans-serif;
+    font-family: math;
     display: block;
     margin-top: 2px;
     color: #6a6a8e;
@@ -2688,7 +2689,7 @@ footer.ftshap:before {
     border: 2px solid #000248;
     color: #050748;
     padding: 0 32px;
-    font-family: Poppins, sans-serif;
+    font-family: math;
     font-size: 16px;
     background: #fff;
     -webkit-box-shadow: 0 10px 15px 0 rgba(3, 35, 68, .1);
@@ -2706,7 +2707,7 @@ footer.ftshap:before {
 
 .cta-call a,
 .ps-block span {
-    font-family: Poppins, sans-serif;
+    font-family: math;
     color: #6a6a8e
 }
 
@@ -2832,7 +2833,7 @@ footer.ftshap:before {
 
 .key-points li:before {
     position: absolute;
-    font-family: "font awesome 5 free";
+    font-family: math;
     font-weight: 900;
     left: 0;
     top: 9px;
@@ -2856,7 +2857,7 @@ footer.ftshap:before {
 .link-prbs,
 .pricing-table .title,
 .tabs a {
-    font-family: Poppins, sans-serif
+    font-family: math
 }
 
 .service-point-2 {
@@ -3361,7 +3362,7 @@ footer.ftshap:before {
 }
 
 .list-ul li:before {
-    font-family: "font awesome 5 free";
+    font-family: math;
     font-weight: 700;
     position: absolute;
     left: 0;
@@ -7508,7 +7509,7 @@ a.smllbtnn {
 
 .hero-slider .swiper-button-next:before,
 .hero-slider .swiper-button-prev:before {
-    font-family: "font awesome 5 free";
+    font-family: math;
     font-size: 15px;
     color: #d4d3d3;
     font-style: normal;
